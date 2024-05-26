@@ -1,0 +1,36 @@
+#hateSpeach
+{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#meatAndPotatoes, #divOfhateSpeach
+{
+    display: flex;
+    justify-content: center;
+}
+
+#instructietions
+{
+    background-color: aqua;
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+#birb
+{
+    margin-left: 10px;
+}
+
+img, video
+{
+    border-radius: 10px;
+    height: 100%;
+}
+
+video
+{
+    display: none;
+}
