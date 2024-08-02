@@ -1,0 +1,42 @@
+body
+{
+    background-color: #6482AD;
+    color: #E2DAD6;
+}
+
+.centerContainer
+{
+    display: flex;
+    justify-content: center;
+}
+
+h1
+{
+    background-color: #7FA1C3;
+    padding: 20px;
+    border-radius: 5px;    
+}
+
+#information
+{
+    background-color: #7FA1C3;
+    padding: 20px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+#theVideo
+{
+    margin-left: 5px;
+}
+
+img, video
+{
+    border-radius: 10px;
+    height: 100%;
+}
+
+video
+{
+    display: none;
+}
